@@ -5,14 +5,14 @@ UI Service (Gradio + FastAPI) — Provides a clean web interface for uploading i
 
 project Structure :-
 
-AI_Object_Detection/
+AI_Object_Detection
 │
-├── AI_Service/
+├── AI_Service
 │   ├── Main.py             
 │     
 │   └── Dockerfile            
 │
-├── UI_Service/
+├── UI_Service
 │   ├── main.py               
 │   ├     
 │   └── Dockerfile            
