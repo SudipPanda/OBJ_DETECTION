@@ -16,4 +16,5 @@ docker-compose up --build
 UI Frontend (Gradio) → http://localhost:7860
 
 UI-
-<img width="1385" height="645" alt="Screenshot 2025-10-07 at 1 22 52 PM" src="https://github.com/user-attachments/assets/9d7d9105-154b-4fb4-b8cd-4972fff3d9aa" />
+
+<img width="1336" height="767" alt="Screenshot 2025-10-07 at 6 09 47 PM" src="https://github.com/user-attachments/assets/e9a16a68-6e2b-49e9-ad0f-e59a27d4cb89" />
