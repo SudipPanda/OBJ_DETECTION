@@ -8,11 +8,5 @@ docker-compose up --build
 
 ACCESS THE APPLICATIONS:-
 UI Frontend (Gradio) → http://localhost:7860
-
-
-
-
-
-
 ![Uploading Screenshot 2025-10-07 at 1.22.52 PM.png…]()
 
