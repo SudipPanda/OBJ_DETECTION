@@ -9,10 +9,10 @@ This project is divided into two main microservices:
 
 ---
 
-**TO BUILD AND START ALL THE SERVICE:-
+**TO BUILD AND START ALL THE SERVICE:-**
 docker-compose up --build
 
-**ACCESS THE APPLICATIONS:-
+**ACCESS THE APPLICATIONS:-**
 UI Frontend (Gradio) → http://localhost:7860
 
 UI-
