@@ -1,7 +1,13 @@
-🧠 AI Object Detection Microservice
-A fully Dockerized AI Object Detection System built using FastAPI, Gradio, and Ultralytics YOLO.
-AI Service (FastAPI) — Handles image processing and object detection.
-UI Service (Gradio + FastAPI) — Provides a clean web interface for uploading images and viewing detection results.
+# 🧠 AI Object Detection Microservice  
+
+A **fully Dockerized AI Object Detection System** built using **FastAPI**, **Gradio**, and **Ultralytics YOLO**.  
+
+This project is divided into two main microservices:  
+
+- 🧩 **AI Service (FastAPI)** — Handles image processing and object detection using YOLO.  
+- 💻 **UI Service (Gradio + FastAPI)** — Provides a simple web interface for uploading images and viewing detection results.  
+
+---
 
 TO BUILD AND START ALL THE SERVICE:-
 docker-compose up --build
